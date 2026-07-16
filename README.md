@@ -88,13 +88,11 @@ This project evaluates the trade-offs between retrieval-based and fine-tuned lan
 symptom-disease-rag/
 │
 ├── notebooks/
-│   ├── BioBERT_Predictions.ipynb
 │   ├── LLaMA_QLoRA_Finetuning.ipynb
 │   └── LIME_Explainability.ipynb
 │
 ├── reports/
-│   ├── Minor_Project_Report.pdf
-│   └── Presentation.pdf
+│   └── Minor_Project_Report.pdf
 │
 ├── requirements.txt
 └── README.md
