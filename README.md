@@ -91,7 +91,7 @@ symptom-disease-rag/
 │   ├── LLaMA_QLoRA_Finetuning.ipynb
 │   └── LIME_Explainability.ipynb
 │
-├── reports/
+├── report/
 │   └── Minor_Project_Report.pdf
 │
 ├── requirements.txt
